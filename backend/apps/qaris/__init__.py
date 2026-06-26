@@ -1,0 +1,1 @@
+# Qaris (Reciters) app
