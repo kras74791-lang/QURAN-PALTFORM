@@ -1,0 +1,7 @@
+from django.apps import AppConfig
+
+
+class HadithsConfig(AppConfig):
+    default_auto_field = 'django.db.models.BigAutoField'
+    name = 'apps.hadiths'
+    verbose_name = 'Hadiths'
